@@ -3,8 +3,18 @@
 <br/>
 
 #### About Me
- - IT student looking to acquire experience in software development. I am in constant evolution as a professional, always attentive to trends in the technological world, seeking to improve my skills
-and maintaining the humility of an eternal apprentice
+ - Full Stack Developer (backend focus).
+
+ - I'm seasoned developer who can launch scalable full-stack applications from scratch. Most of my experience has been working with PHP and CodeIgniter, but I've also created applications with Node and React.
+
+ - I'm also very comfortable with microservices architecture. I have a lot of experience with Java and Spring Boot and can create a secure ecosystem.
+
+ - Proficient in transforming complex requirements into functional and efficient solutions, demonstrating skills in both the frontend and backend.
+
+ - I am recognized for my proactivity, collaborative capacity and constant search for challenges that boost my professional growth.
+
+ - Fluent Portuguese
+ - Intermediary English
 
 <br/>
 
