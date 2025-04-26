@@ -5,14 +5,7 @@
 #### About Me
  - Full Stack Developer (backend focus).
 
- - I'm seasoned developer who can launch scalable full-stack applications from scratch. Most of my experience has been working with PHP and CodeIgniter, but I've also created applications with Node and React.
-
- - I'm also very comfortable with microservices architecture. I have a lot of experience with Java and Spring Boot and can create a secure ecosystem.
-
- - Proficient in transforming complex requirements into functional and efficient solutions, demonstrating skills in both the frontend and backend.
-
- - I am recognized for my proactivity, collaborative capacity and constant search for challenges that boost my professional growth.
-
+ - I'm seasoned developer who can launch scalable full-stack applications from scratch. Most of my experience has been working with PHP and CodeIgniter, but I've also created applications with Node and React. Proficient in transforming complex requirements into functional and efficient solutions, demonstrating skills in both the frontend and backend. I am recognized for my proactivity, collaborative capacity and constant search for challenges that boost my professional growth.
  - Fluent Portuguese
  - Intermediary English
 
@@ -30,12 +23,20 @@
 ## Technologies
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="30px" title="HTML" align="center" style="margin-right: 5px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="30px" title="CSS" align="center" style="margin-right: 5px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" title="JavaScript" align="center" style="margin-right: 5px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="JavaScript" width="30px" title="JavaScript" align="center" style="margin-right: 5px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="JavaScript" width="30px" title="JavaScript" align="center" style="margin-right: 5px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="JavaScript" width="30px" title="JavaScript" align="center" style="margin-right: 5px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="JavaScript" width="30px" title="JavaScript" align="center" style="margin-right: 5px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" alt="JavaScript" width="30px" title="JavaScript" align="center" style="margin-right: 5px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="JavaScript" width="30px" title="JavaScript" align="center"style="margin-right: 5px" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="JavaScript" width="30px" title="JavaScript" align="center" style="margin-right: 5px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="JavaScript" width="30px" title="JavaScript" align="center" style="margin-right: 5px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="JavaScript" width="30px" title="JavaScript" align="center" style="margin-right: 5px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30px" title="C++" align="center" style="margin-right: 5px"/>
+          
 </div>
 <br/>
 <br/>
