@@ -16,7 +16,7 @@
 
 <br/>
 
-![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroleonard&show_icons=true&theme=dracula)
+![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroleonard&show_icons=true&theme=radical)
 
 <br/>
 
@@ -41,4 +41,4 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroleonard&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroleonard&layout=compact&theme=radical)
