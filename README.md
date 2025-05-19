@@ -1,18 +1,19 @@
-### Hi! I'm Leandro Ventura 👋
+## 👨‍💻 Software Engineer
 
-<br/>
-
-#### About Me
- - Full Stack Developer (backend focus).
-
- - I'm seasoned developer who can launch scalable full-stack applications from scratch. Most of my experience has been working with PHP and CodeIgniter, but I've also created applications with Node and React. Proficient in transforming complex requirements into functional and efficient solutions, demonstrating skills in both the frontend and backend. I am recognized for my proactivity, collaborative capacity and constant search for challenges that boost my professional growth.
- - Fluent Portuguese
- - Intermediary English
-
-<br/>
+**Top Skills:** PHP, Laravel, CodeIgniter, React, JavaScript, MySQL, Linux  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ventura-1606ab1a3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailito:leandroventur19@gmail.com)
+
+---
+
+I'm a seasoned developer with a proven ability to launch scalable full-stack applications from scratch. My primary expertise lies in PHP and CodeIgniter, but I also build feature-rich applications with Node and React. I excel at transforming complex requirements into efficient, functional solutions, contributing effectively to both backend and frontend development.
+
+Recognized for my proactivity, collaborative mindset, and a constant drive to tackle new challenges, I am committed to continuous professional growth. My interests include AI, LLMs, and competitive programming.
+
+---
+
+**Let's connect and build something great!**
 
 <br/>
 
